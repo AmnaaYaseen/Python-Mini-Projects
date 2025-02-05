@@ -36,9 +36,7 @@ determines the winner based on standard game rules.
 ## Requirements
 - Python 3.x
 
-## License
-This project is open-source and available under the MIT License.
-
 ## Contributions
 Feel free to contribute to these projects by submitting pull requests or reporting issues!
 
+This project is available to all.
